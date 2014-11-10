@@ -1,0 +1,5 @@
+caso#1: test a is this  
+caso#2: foobar  
+caso#3: base your all  
+caso#4: class  
+caso#5: along pony  
