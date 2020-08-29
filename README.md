@@ -1,7 +1,5 @@
-IPC1A_2S_201314014
+IPC1A_2S
+
 ==================
 Introduccion a la programacion y computacion 1  seccion: A segundo semestre
-
-Milton Javier Navarro Fuentes   carnet : 201314014
-
 Practica 3
